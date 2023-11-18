@@ -1,8 +1,9 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background: repeating-linear-gradient(0deg, white, #5b59f0);
   margin: 0;
   padding: 0;
+  margin-bottom: 25px;
 }
 
 #main {
